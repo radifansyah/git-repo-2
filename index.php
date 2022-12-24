@@ -12,6 +12,9 @@
     <h1>hello word</h1>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam sapiente expedita magnam ipsam et velit quos amet
         eaque possimus omnis.</p>
+    <ul>
+        <li>dua</li>
+    </ul>
 </body>
 
 </html>
